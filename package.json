@@ -1,10 +1,10 @@
 {
-  "name": "",
+  "name": "SocialleyShareMe",
   "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "JavaScript Mastery",
+  "author": "Utkarshini",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
